@@ -2,10 +2,23 @@
     <channel>
         <title><![CDATA[Rasmus Lasthein]]></title>
         <description><![CDATA[Rasmus Lasthein]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rasmus-lasthein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 17:04:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 17:09:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rasmus-lasthein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I CARRY YOUR SMILE IN MY HEART]]></title>
+            <description><![CDATA[<article><h1>I CARRY YOUR SMILE IN MY HEART</h1><p>Baby you make me sing
+you can make me do just anything
+You knock me off my feet your kisses are so soft and sweet
+My heart just skips a beat
+When I see you walking down the street
+And no matter what tomorrow brings my love
+</p></article>]]></description>
+            <link>https://thegrid.ai/rasmus-lasthein/baby-you-make-me-sing-you-can-make-me-do-just-anything-you-k/index.html</link>
+            <guid isPermaLink="false">b66ade55-fc2f-4dbc-aebd-be23c0c78632</guid>
+            <pubDate>Tue, 29 Mar 2016 17:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don’t Throw It All Away ]]></title>
             <description><![CDATA[<article><h1>Don’t Throw It All Away </h1><p>Baby don’t throw it all away I know you’re crying everyday I know you feel that life is cruel
@@ -36,7 +49,7 @@ B: ||: Em Am7 | Dm7 G | Em Am7 | Dm7 G | F | G | F :||
 
 
 </p></article>]]></description>
-            <link>undefined4ec4ee00-bce6-484a-9bfd-0d155a5ba6c6/index.html</link>
+            <link>https://thegrid.ai/rasmus-lasthein/4ec4ee00-bce6-484a-9bfd-0d155a5ba6c6/index.html</link>
             <guid isPermaLink="false">4ec4ee00-bce6-484a-9bfd-0d155a5ba6c6</guid>
             <pubDate>Tue, 29 Mar 2016 17:04:35 GMT</pubDate>
         </item>
