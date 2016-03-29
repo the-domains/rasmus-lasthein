@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Kiss me blind\nAnd take me swimming in the lake\nHold my hand\nAnd make me a promise you’ll never break\nSing me a song\nWith stolen words from broken dreams\nKeep me safe\nWhen nothing is quite what it seems\_"
-datePublished: '2016-03-29T17:15:13.665Z'
-dateModified: '2016-03-29T17:14:53.629Z'
+datePublished: '2016-03-29T17:17:13.441Z'
+dateModified: '2016-03-29T17:15:17.889Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-kiss-me-blind-and-take-me-swimming-in-the-lake-hold-my-hand.md
@@ -68,5 +68,7 @@ Look me in the eyes
 When there is nothing more to say 
 
 A:||: Em Am7 | D :||  
+(Em med G øverst )
+
 Bridge:|| Am | C | H7 :||  
-Outro:||:Em Am7| C D | G :||(Em med G øverst )
+Outro:||:Em Am7| C D | G :||
