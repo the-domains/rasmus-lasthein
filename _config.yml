@@ -1,7 +1,7 @@
 name: Rasmus Lasthein
 favicon: null
-layout_spectrum: 0.742414279608056
-typography_spectrum: 0.7057198456022888
+layout_spectrum: 0.49415
+typography_spectrum: 0.69526
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.31770947319455445
-  lightness: 0.3837080029770732
-  saturation: 0.15350626967847347
-  rhythmicContrast: 0.7721940816845745
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
